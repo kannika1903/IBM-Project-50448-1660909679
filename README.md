@@ -6,6 +6,7 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 * JAYA PREETHA
 * MOURIYA
 * THAMIZHINIYAN
+* MAHENDRAN
 
 # README
 Swimming is one of the best exercises that helps people to reduce stress in this urban lifestyle. 
